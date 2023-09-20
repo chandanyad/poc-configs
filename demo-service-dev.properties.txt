@@ -1,2 +1,0 @@
-demo-server.limit.min=50.00
-demo-server.limit.max=80.00
