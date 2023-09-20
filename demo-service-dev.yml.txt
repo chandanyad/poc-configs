@@ -1,0 +1,4 @@
+demo-service:
+   limit:
+  	min: 30.00
+  	max: 40.00
