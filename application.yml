@@ -1,2 +1,3 @@
-limit.min=50.00
-limit.max=80.00
+limit:
+  min: 20.00
+  max: 30.00
