@@ -1,3 +1,3 @@
-limit:
+demo-service:
   min: 20.00
   max: 30.00
